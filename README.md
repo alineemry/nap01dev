@@ -1,8 +1,9 @@
 # 📦 API REST - Produtos (NAP1 - Desenvolvimento Web)
 
 **Maria Aline Cunha Ribeiro**  
-Curso: Sistemas de Informação – UFRA  
-Disciplina: Desenvolvimento Web - NAP1 – 2025
+- Curso: Sistemas de Informação - UFRA  
+- Disciplina: Desenvolvimento Web - NAP1 - 2025
+- Disciplina ofertada por Jose Augusto De Sena Quaresma
 
 ---
 
